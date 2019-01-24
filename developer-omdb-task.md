@@ -2,7 +2,7 @@
 
 We at CredoWeb are massive fans of the epic Game of Throne series. Your task (should you choose to accept it) is to consume the public [OMDb API](http://www.omdbapi.com/) and display all the seasons and all episodes (with the poster of each episode) of the show according to this basic wireframe:
 
-> ![mockup](wireframe.png)
+> ![mockup](wireframe-omdb.png)
 
 Some help for the OMDb API:
 
