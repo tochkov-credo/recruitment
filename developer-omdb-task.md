@@ -4,6 +4,8 @@ We at CredoWeb are massive fans of the epic Game of Throne series. Your task (sh
 
 > ![mockup](wireframe-omdb.png)
 
+We'd like to point out this is not the actual design just a wireframe to illustrate the basic view we aim.
+
 Some help for the OMDb API:
 
 * Here you can [request](http://www.omdbapi.com/apikey.aspx) a free API key to the OMDb
@@ -15,6 +17,7 @@ Some help for the OMDb API:
 * The development should be done using the [Angular Framework](https://angular.io/)
 * Should function as a [Single Page App](http://en.wikipedia.org/wiki/Single-page_application).
 * You must use HTML and CSS (using Bootstrap and pre-compilers such as Sass or LESS is fine).
+* The star icon (enabled/disabled) is used to save the current episode to the local storage
 
 If you feel like you want to show us what you're are really capable of, here is a list of potential enhancements that we have come up with. You can always go the extra mile and do not limit yourself to it if you think of any other possible feature enhancement that you want to include in your submission. 
 
