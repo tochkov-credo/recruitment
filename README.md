@@ -13,6 +13,7 @@ Here are some points that we tend to look for when reviewing your task:
 #### The task
 
 - [OMDb API](developer-omdb-task.md)
+- [UI Developer]](developer-ui-task.md)
 
 #### What to do after completing the task?
 
