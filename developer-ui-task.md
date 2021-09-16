@@ -6,9 +6,11 @@ Your task is to bring to "live" the provided PhotoShop file and create the actua
 
 ### Resources
 
-[Live Prototype](https://projects.invisionapp.com/share/7HFGVSN2ATV#/screens/274971449)
+[Live Prototype](https://xd.adobe.com/view/40b99422-e29d-4c9f-9143-6a00afeb8346-15ea/)
 
-[PSD](ui-task.psd)
+[PSD](./psd/UI_Task_Daniela_Naydenova.psd)
+
+[JPEG](./images/UI_Task_Daniela_Naydenova.jpg)
 
 ### Tips and Help
 
@@ -16,13 +18,16 @@ Your task is to bring to "live" the provided PhotoShop file and create the actua
 
 * HTML5 and CSS3 are a must!
 * Focus on how well is implemented the grid system, alignment of elements and style of code
-* Responsive site (mobile first!) is a priority
-* You are free to use any CSS framework and/or pre-compilers such as Sass or LESS
-* There is no need to implement the JavaScript functionality (Add More, Article Settings, etc) so they can be always visible
+* Box items shouldn't be implemented as an images in OUR DEVICES section (Every parts must be separated by each other -Titles, Slogans, Buttons, etc.)
+* Social buttons (see footer section) must be coresponding with the social global colors on their hovering
+* Responsive version is a priority - Mobile first! There's no a PSD design for that, so feel free to use your imagination :)
+* You are free to use pre-compilers such as SASS or LESS
+* There's no need to implement the JavaScript functionality (Buttons, Search, etc.) so they can be always visible
 * No need to make the icons SVGs - images are just fine
-*
 
 If you feel like you want to show us what you're are really capable of, here is a list of potential enhancements that we have come up with. You can always go the extra mile and do not limit yourself to it if you think of any other possible feature enhancement that you want to include in your submission.
 
-* WYSIWYG Editor implemetation (we use TinyMCE)
+* Create style elements insted of images
+* Hovering animations
+* Using Flex/Grid system will be considered an advantage
 * Improve the speed of the page in terms of the images/content loading.
