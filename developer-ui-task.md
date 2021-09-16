@@ -6,8 +6,6 @@ Your task is to bring to "live" the provided PhotoShop file and create the actua
 
 ### Resources
 
-[Live Prototype](https://xd.adobe.com/view/40b99422-e29d-4c9f-9143-6a00afeb8346-15ea/)
-
 [PSD](./psd/UI_Task_Daniela_Naydenova.psd)
 
 [JPEG](./images/UI_Task_Daniela_Naydenova.jpg)
