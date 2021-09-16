@@ -18,7 +18,7 @@ Your task is to bring to "live" the provided PhotoShop file and create the actua
 
 * HTML5 and CSS3 are a must!
 * Focus on how well is implemented the grid system, alignment of elements and style of code
-* Box items shouldn't be implemented as an images in OUR DEVICES section (Every parts must be separated by each other -Titles, Slogans, Buttons, etc.)
+* Box items shouldn't be implemented as an images in OUR SERVICES section (Every parts must be separated by each other -Titles, Slogans, Buttons, etc.)
 * Social buttons (see footer section) must be coresponding with the social global colors on their hovering
 * Responsive version is a priority - Mobile first! There's no a PSD design for that, so feel free to use your imagination :)
 * You are free to use pre-compilers such as SASS or LESS
@@ -30,4 +30,4 @@ If you feel like you want to show us what you're are really capable of, here is 
 * Create style elements insted of images
 * Hovering animations
 * Using Flex/Grid system will be considered an advantage
-* Improve the speed of the page in terms of the images/content loading.
+* Improve the speed of the page in terms of the images/content loading
