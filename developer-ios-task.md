@@ -7,9 +7,8 @@ Your task is to create a very simple news app, consisting of 2 screens:
 ![image](https://user-images.githubusercontent.com/4658634/141983981-fb465efe-ca25-42b9-81fc-a1c22109231c.png)
 
 ### Resources
-- Create a free account at https://currentsapi.services/ to acquire your api key
-Use https://api.currentsapi.services/v1/search as end point for your application
-- request parameters: language=en, page_number, apiKey (or you can use “Authorization” header)
+- Create a free account at https://currentsapi.services/ to acquire your api key. Use https://api.currentsapi.services/v1/search as end point for your application
+- Request parameters: language=en, page_number, apiKey (or you can use “Authorization” header)
 
 ### Screens
 - News List Screen:
